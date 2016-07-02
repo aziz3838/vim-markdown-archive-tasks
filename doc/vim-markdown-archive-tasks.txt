@@ -1,0 +1,27 @@
+*vim-markdown-archive-tasks.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                           *vim-markdown-archive-tasks*
+
+    1. Intro ............................... |vim-markdown-archive-tasks-intro|
+    2. Requirements ................. |vim-markdown-archive-tasks-requirements|
+    3. Usage ............................... |vim-markdown-archive-tasks-usage|
+    4. Licence ........................... |vim-markdown-archive-tasks-licence|
+===============================================================================
+1. Intro                                     *vim-markdown-archive-tasks-intro*
+
+Overview of plugin
+
+2. Requirements                       *vim-markdown-archive-tasks-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                     *vim-markdown-archive-tasks-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                 *vim-markdown-archive-tasks-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
